@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **manjithkanukolanu87@gmail.com**
 
-- ⚡ Fun fact
-- **Why did the backend developer always bring a pencil to work? Because they liked to draw the line in the code! ✏️💻**
+- ⚡ Fun fact : 
+  **Why did the backend developer always bring a pencil to work? Because they liked to draw the line in the code! ✏️💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
